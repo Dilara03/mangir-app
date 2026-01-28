@@ -15,7 +15,7 @@
 | :------------------ | :------------------------------------ |
 | **Mobile Frontend** | Flutter, Dart                         |
 | **Backend API**     | Python, FastAPI                       |
-| **Database & ORM**  | MySQL                                 |
+| **Database & ORM**  | MySQL, SQLAlchemy                     |
 | **Security**        | JWT (JSON Web Tokens), Bcrypt Hashing |
 | **API Docs**        | Swagger UI                            |
 
